@@ -4,7 +4,7 @@
 
 website
 
-<center><img src=" "/></center>
+<center><img src="https://school.life-cm.com/images/logo.jpg"/></center>
 
 ## About GSB
 
